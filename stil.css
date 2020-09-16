@@ -1,0 +1,27 @@
+body {
+	margin:0;
+}
+
+.ust15bosluk {
+	margin-top:15px;
+}
+
+.card {
+	margin-top:10px;
+	margin-left:-20px;
+}
+
+.cardOrta { text-align:center; }
+.cardRed { color:red; }
+.cardBlue { color:blue; }
+
+.image-test{
+	margin: 0 auto;
+}
+
+.image-test img{
+	width: auto;
+	height: 200px;
+	object-fit:contain;
+	
+}
